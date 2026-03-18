@@ -13,9 +13,9 @@ Python / Pygame project developed from May - June 2024.
 
 <h2>DESCRIPTION</h2>
 <p>
-<b>This game was developed around a unique idea:</b> The sex of a sea turtle is determined by the temperature of the egg before hatching.<br>
+<b>This game was developed around a unique idea:</b> A sea turtle egg hatches a boy or girl depending on the temperature of the egg before hatching.<br>
 
-The concept was translated into gameplay by giving the player lighting to heat up the eggs, a tide which constantly cools the eggs, and waves of lizards who eat the eggs.
+The concept was translated into gameplay by giving the player lightning to heat up the eggs, a tide which constantly cools the eggs, and waves of lizards who attack the eggs.
 After 30 days, a score is assigned based on the number of eggs that successfully hatched and the ratio of male to female eggs.
 </p>
 
